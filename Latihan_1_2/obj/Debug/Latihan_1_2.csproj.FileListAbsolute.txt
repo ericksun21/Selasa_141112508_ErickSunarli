@@ -1,0 +1,9 @@
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Latihan_1_2\bin\Debug\Latihan_1_2.exe.config
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Latihan_1_2\bin\Debug\Latihan_1_2.exe
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Latihan_1_2\bin\Debug\Latihan_1_2.pdb
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Latihan_1_2\obj\Debug\Latihan_1_2.Form1.resources
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Latihan_1_2\obj\Debug\Latihan_1_2.Properties.Resources.resources
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Latihan_1_2\obj\Debug\Latihan_1_2.csproj.GenerateResource.Cache
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Latihan_1_2\obj\Debug\Latihan_1_2.exe
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Latihan_1_2\obj\Debug\Latihan_1_2.pdb
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Latihan_1_2\obj\Debug\Latihan_1_2.csprojResolveAssemblyReference.cache

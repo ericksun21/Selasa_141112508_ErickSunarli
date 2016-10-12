@@ -1,0 +1,8 @@
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Selasa_141112508_ErickSunarli\bin\Debug\Selasa_141112508_ErickSunarli.exe.config
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Selasa_141112508_ErickSunarli\bin\Debug\Selasa_141112508_ErickSunarli.exe
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Selasa_141112508_ErickSunarli\bin\Debug\Selasa_141112508_ErickSunarli.pdb
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Selasa_141112508_ErickSunarli\obj\Debug\Selasa_141112508_ErickSunarli.Form1.resources
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Selasa_141112508_ErickSunarli\obj\Debug\Selasa_141112508_ErickSunarli.Properties.Resources.resources
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Selasa_141112508_ErickSunarli\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Selasa_141112508_ErickSunarli\obj\Debug\Selasa_141112508_ErickSunarli.exe
+C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Selasa_141112508_ErickSunarli\obj\Debug\Selasa_141112508_ErickSunarli.pdb
