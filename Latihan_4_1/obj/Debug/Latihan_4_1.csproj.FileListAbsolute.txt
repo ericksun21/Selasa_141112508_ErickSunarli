@@ -14,3 +14,4 @@ C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\Latihan_4_1\b
 C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\Latihan_4_1\obj\Debug\Latihan_4_1.Form1.resources
 C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\Latihan_4_1\obj\Debug\Latihan_4_1.Properties.Resources.resources
 C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\Latihan_4_1\obj\Debug\Latihan_4_1.csproj.GenerateResource.Cache
+C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\Latihan_4_1\obj\Debug\Latihan_4_1.csprojResolveAssemblyReference.cache
