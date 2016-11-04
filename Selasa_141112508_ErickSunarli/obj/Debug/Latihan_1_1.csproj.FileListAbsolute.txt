@@ -6,3 +6,6 @@ C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Selasa_1411
 C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Selasa_141112508_ErickSunarli\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
 C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Selasa_141112508_ErickSunarli\obj\Debug\Selasa_141112508_ErickSunarli.exe
 C:\Users\Windows7\Desktop\kuliah\erick\Selasa_141112508_ErickSunarli\Selasa_141112508_ErickSunarli\obj\Debug\Selasa_141112508_ErickSunarli.pdb
+C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\Selasa_141112508_ErickSunarli\bin\Debug\Selasa_141112508_ErickSunarli.exe.config
+C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\Selasa_141112508_ErickSunarli\obj\Debug\Selasa_141112508_ErickSunarli.exe
+C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\Selasa_141112508_ErickSunarli\obj\Debug\Selasa_141112508_ErickSunarli.pdb
