@@ -7,3 +7,4 @@ C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\Latihan_5_1\b
 C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\Latihan_5_1\obj\Debug\Latihan_5_1.exe
 C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
 C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\Latihan_5_1\obj\Debug\Latihan_5_1.Form2.resources
+C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\Latihan_5_1\obj\Debug\Latihan_5_1.csprojResolveAssemblyReference.cache

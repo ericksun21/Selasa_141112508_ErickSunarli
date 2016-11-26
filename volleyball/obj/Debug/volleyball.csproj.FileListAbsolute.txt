@@ -1,0 +1,5 @@
+C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\volleyball\bin\Debug\volleyball.exe.config
+C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\volleyball\obj\Debug\volleyball.csprojResolveAssemblyReference.cache
+C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\volleyball\obj\Debug\Volleyball_Problem.Form1.resources
+C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\volleyball\obj\Debug\volleyball.Properties.Resources.resources
+C:\Users\User Asus\Desktop\Framework\Selasa_141112508_ErickSunarli\volleyball\obj\Debug\volleyball.csproj.GenerateResource.Cache
